@@ -1,1 +1,1 @@
-# xmnote-bookcovers
+# bookcovers
